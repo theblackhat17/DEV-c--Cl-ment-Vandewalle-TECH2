@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic; // Pour utiliser List<>
+using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using System.Reflection.Metadata.Ecma335;
 
